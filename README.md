@@ -36,9 +36,6 @@
 
 ##  Projetos em Destaque
 
-> Assim que você começar a subir projetos, coloque eles aqui.  
-> Exemplos:
-
 ###   Sistema de Cadastro em Java (API REST)
 CRUD completo usando Spring Boot, PostgreSQL e boas práticas de arquitetura.
 
@@ -47,7 +44,7 @@ Coleção de exercícios e estruturas de dados explicadas.
 
 ---
 
-##  O que estou estudando agora
+##  Estou estudando agora
 
 - Java Avançado para Back-End  
 - Estruturas de Dados II  
