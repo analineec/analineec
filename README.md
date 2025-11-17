@@ -12,7 +12,6 @@
 -  Rumo à carreira de **Desenvolvedora Back-End**, com foco em **Java**  
 -  Experiência em suporte técnico (RM Certificados)  
 -  Estudando Estrutura de Dados, APIs REST, Banco de Dados e Java moderno  
--  Planejo engravidar em 2026, então estou construindo uma carreira estável e flexível  
 -  Objetivo atual: construir projetos sólidos para portfólio  
 
 ---
