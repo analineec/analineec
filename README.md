@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 **Back-end e Linguagens**  
 - Java • Python • SQL
