@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Ana Aline! </h1>
 
-<!--
-**analineec/analineec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedora Back-End em formação • Amante de Java • Profissional de Suporte Técnico
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+
+-  Formada em **Análise e Desenvolvimento de Sistemas (ADS)**  
+-  Rumo à carreira de **Desenvolvedora Back-End**, com foco em **Java**  
+-  Experiência em suporte técnico (RM Certificados)  
+-  Estudando Estrutura de Dados, APIs REST, Banco de Dados e Java moderno  
+-  Planejo engravidar em 2026, então estou construindo uma carreira estável e flexível  
+-  Objetivo atual: construir projetos sólidos para portfólio  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Back-end e Linguagens**  
+- Java • Python • SQL
+
+**Ferramentas e DevOps**  
+- Git & GitHub  
+- VS Code • IntelliJ  
+- Postman  
+- Docker (inicial)
+
+**Outros conhecimentos**  
+- Suporte e infraestrutura  
+- Certificação digital  
+- Rotinas de TI
+
+---
+
+##  Projetos em Destaque
+
+> Assim que você começar a subir projetos, coloque eles aqui.  
+> Exemplos:
+
+###   Sistema de Cadastro em Java (API REST)
+CRUD completo usando Spring Boot, PostgreSQL e boas práticas de arquitetura.
+
+###   Algoritmos em Java
+Coleção de exercícios e estruturas de dados explicadas.
+
+---
+
+##  O que estou estudando agora
+
+- Java Avançado para Back-End  
+- Estruturas de Dados II  
+- Boas práticas (SOLID, Clean Code)  
+- Integração com banco de dados  
+- APIs REST  
+- Fundamentos de testes automatizados
+
+---
+
+##  Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analineec&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analineec&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+##  Como me encontrar
+
+- 📧 **Email:** analine93@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/analineec
+- 🌐 **Portfólio (futuro GitHub Pages):** em construção  
+
+---
+
+### Obrigada pela visita! 
+
+Se quiser ver meus estudos ou trocar ideia sobre Java e back-end, é só chamar!
