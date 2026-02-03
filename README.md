@@ -10,7 +10,7 @@
 
 -  Formada em **Análise e Desenvolvimento de Sistemas (ADS)**  
 -  Rumo à carreira de **Desenvolvedora Back-End**, com foco em **Java**  
--  Experiência em suporte técnico (RM Certificados)  
+-  Experiência em suporte técnico 
 -  Estudando Estrutura de Dados, APIs REST, Banco de Dados e Java moderno  
 -  Objetivo atual: construir projetos sólidos para portfólio  
 
@@ -55,13 +55,9 @@ Coleção de exercícios e estruturas de dados explicadas.
 
 ---
 
-### Estatísticas do GitHub
-> ⚠️ *Os cards abaixo podem ficar temporariamente indisponíveis por instabilidade externa.*
-
-<p align="center">
-  <![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=analineec&show_icons=true&theme=dracula)>
-</p>
-
+![Java](https://img.shields.io/badge/Java-Back--End-ED8B00)
+![Python](https://img.shields.io/badge/Python-Dados-3776AB)
+![Status](https://img.shields.io/badge/Status-Em%20Evolução-brightgreen)
 ---
 
 ##  Como me encontrar
