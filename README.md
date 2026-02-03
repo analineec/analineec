@@ -59,7 +59,7 @@ Coleção de exercícios e estruturas de dados explicadas.
 > ⚠️ *Os cards abaixo podem ficar temporariamente indisponíveis por instabilidade externa.*
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=analineec&show_icons=true&theme=dracula"/>
+  <![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=analineec&show_icons=true&theme=dracula)>
 </p>
 
 ---
