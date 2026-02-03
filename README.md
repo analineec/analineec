@@ -55,11 +55,11 @@ Coleção de exercícios e estruturas de dados explicadas.
 
 ---
 
-##  Estatísticas do GitHub
+### Estatísticas do GitHub
+> ⚠️ *Os cards abaixo podem ficar temporariamente indisponíveis por instabilidade externa.*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analineec&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analineec&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=analineec&show_icons=true&theme=dracula"/>
 </p>
 
 ---
