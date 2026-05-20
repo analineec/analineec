@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Ana Aline! </h1>
+<h1 align="center">Olá, eu sou a Ana Aline </h1>
 
 <p align="center">
   Desenvolvedora Back-End em formação • Amante de Java • Profissional de Suporte Técnico
